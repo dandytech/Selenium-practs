@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-16T09:13:06 WAT" name="Suite" finished-at="2023-05-16T09:14:59 WAT" duration-ms="113264">
+    <groups>
+    </groups>
+    <test started-at="2023-05-16T09:13:06 WAT" name="Test-2" finished-at="2023-05-16T09:13:18 WAT" duration-ms="11818">
+      <class name="greenmouse.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:greenmouse.TestDemo@6ac4944a]" started-at="2023-05-16T09:13:06 WAT" name="titleCheck" finished-at="2023-05-16T09:13:16 WAT" duration-ms="10294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- greenmouse.TestDemo -->
+    </test> <!-- Test-2 -->
+    <test started-at="2023-05-16T09:13:06 WAT" name="Test-0" finished-at="2023-05-16T09:13:20 WAT" duration-ms="13647">
+      <class name="greenmouse.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:greenmouse.TestDemo@26f143ed]" started-at="2023-05-16T09:13:06 WAT" name="titleCheck" finished-at="2023-05-16T09:13:19 WAT" duration-ms="12419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- greenmouse.TestDemo -->
+    </test> <!-- Test-0 -->
+    <test started-at="2023-05-16T09:13:06 WAT" name="Test-1" finished-at="2023-05-16T09:13:25 WAT" duration-ms="18736">
+      <class name="greenmouse.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:greenmouse.TestDemo@24528a25]" started-at="2023-05-16T09:13:06 WAT" name="titleCheck" finished-at="2023-05-16T09:13:23 WAT" duration-ms="17050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- greenmouse.TestDemo -->
+    </test> <!-- Test-1 -->
+    <test started-at="2023-05-16T09:13:18 WAT" name="Test2-0" finished-at="2023-05-16T09:13:28 WAT" duration-ms="10049">
+      <class name="greenmouse.TestDemo2">
+        <test-method signature="titleCheckOja()[pri:0, instance:greenmouse.TestDemo2@7cc9ce8]" started-at="2023-05-16T09:13:18 WAT" name="titleCheckOja" finished-at="2023-05-16T09:13:26 WAT" duration-ms="8537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckOja -->
+      </class> <!-- greenmouse.TestDemo2 -->
+    </test> <!-- Test2-0 -->
+    <test started-at="2023-05-16T09:13:20 WAT" name="Test2-1" finished-at="2023-05-16T09:13:46 WAT" duration-ms="26565">
+      <class name="greenmouse.TestDemo2">
+        <test-method signature="titleCheckOja()[pri:0, instance:greenmouse.TestDemo2@2bffa76d]" started-at="2023-05-16T09:13:20 WAT" name="titleCheckOja" finished-at="2023-05-16T09:13:44 WAT" duration-ms="24695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckOja -->
+      </class> <!-- greenmouse.TestDemo2 -->
+    </test> <!-- Test2-1 -->
+    <test started-at="2023-05-16T09:13:25 WAT" name="Test2-2" finished-at="2023-05-16T09:14:59 WAT" duration-ms="94523">
+      <class name="greenmouse.TestDemo2">
+        <test-method signature="titleCheckOja()[pri:0, instance:greenmouse.TestDemo2@49bf29c6]" started-at="2023-05-16T09:13:25 WAT" name="titleCheckOja" finished-at="2023-05-16T09:14:57 WAT" duration-ms="92374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckOja -->
+      </class> <!-- greenmouse.TestDemo2 -->
+    </test> <!-- Test2-2 -->
+  </suite> <!-- Suite -->
+</testng-results>
